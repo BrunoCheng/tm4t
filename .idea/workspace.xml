@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac8dfdae-12cd-4406-9d20-f29e923d417f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/META-INF/base_javase.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L2基本语法/L2_1关键字.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L2基本语法/L2_2标识符.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L2基本语法/L2_3流程控制/switch_case/SwitchCaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/array/ArrayTest$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/array/ArrayTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/array/Person$game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/array/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/array/ShuZuNeiCun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/array/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chongzai/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chongzai/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chongzai/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chuancan/Test$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chuancan/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chuancan/TransferTest$Value.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chuancan/TransferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chushihua/Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chushihua/Son.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/chushihua/TestInit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/gc/MyClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/gc/TestGC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/shujuleixing/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/shujuleixing/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/singleton/Singleton$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/singleton/Singleton$InnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/singleton/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/singleton/Singleton2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/singleton/Singleton3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/singleton/Singleton4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/singleton/Singleton5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/smallproject/jizhang/FamilyAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/smallproject/jizhang/Utility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/BinaryInsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/BucketSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/DataWrap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/MultiKeyRadixSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/SelectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/SelectSort2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/duixiang/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/BinaryInsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/BucketSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/MultiKeyRadixSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/SelectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/SelectSort2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/sort/zhenxin/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/xunhuan/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/xunhuan/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/xunhuan/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/xunhuan/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependences/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependences/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/base_javase/target/" />
@@ -95,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dependences/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -155,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/base_javase/pom.xml" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/shujuleixing/Test01.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/shujuleixing/Test02.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/shujuleixing/smallproject/FamilyAccount.java" />
@@ -206,6 +151,7 @@
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L2基本语法/L2_3流程控制/switch_case/SwitchCaseTest.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L2基本语法/L2_3流程控制/switch_case/SwitchCasePr.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/Person.java" />
+        <option value="$PROJECT_DIR$/dependences/pom.xml" />
       </list>
     </option>
   </component>
@@ -225,8 +171,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="165" />
-    <option name="y" value="87" />
+    <option name="x" value="183" />
+    <option name="y" value="171" />
     <option name="width" value="1555" />
     <option name="height" value="740" />
   </component>
@@ -244,6 +190,11 @@
             <path>
               <item name="tm4t" type="b2602c69:ProjectViewProjectNode" />
               <item name="tm4t" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tm4t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tm4t" type="462c0819:PsiDirectoryNode" />
+              <item name="dependences" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -402,7 +353,7 @@
       <workItem from="1558967015491" duration="781000" />
       <workItem from="1559554558938" duration="10995000" />
       <workItem from="1559581050950" duration="2372000" />
-      <workItem from="1559583971177" duration="245000" />
+      <workItem from="1559583971177" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="第一次tm4t下面&#10;&#10;提交了当前项目的所有代码">
       <created>1559576175616</created>
@@ -439,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559583640640</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1321313">
+      <created>1559584227263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559584227263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -475,7 +433,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56108000" />
+    <option name="totallyTimeSpent" value="56482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,9 +445,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="498" y="144" width="1244" height="592" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8097015" visible="true" weight="0.2124665" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8097015" visible="true" weight="0.267285" />
       <window_info id="Structure" order="1" sideWeight="0.19029851" side_tool="true" weight="0.25938338" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.4950249" side_tool="true" weight="0.2533512" />
@@ -507,7 +466,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.20538244" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.3152174" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49932975" weight="0.3286119" />
@@ -543,13 +502,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/JAVA/JDK8/src.zip!/java/lang/CharSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/JAVA/JDK8/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -909,6 +861,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dependences/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
         </state>
       </provider>
     </entry>
