@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/base_javase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/smallproject/jizhang/FamilyAccount.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/smallproject/jizhang/Utility.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base_javaweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dependences" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
