@@ -1,11 +1,11 @@
-package com.suixin.tm4t.array;
+package com.suixin.tm4t.L3数组;
 
 /**
  * @Description:数组内存测试
  * @data:2019/5/22
  * @Auther:acheng
  */
-public class ShuZuNeiCun {
+public class 数组内存 {
     public static void main(String[] args) {
         int[] arr = new int[]{1,2,3};
         //new int[]{};1.在内存堆中new开辟一块空间,并初始化值为0,0,0;
@@ -20,6 +20,6 @@ public class ShuZuNeiCun {
 
         strArr = new String[3];//右边还是新建数组,并初始化值null,null,null,并将新数组的地址值覆盖掉strArr之前的[Ljava.lang.String;@330bedb4
         System.out.println(strArr);//地址值为:[Ljava.lang.String;@2503dbd3
-        System.out.println(strArr[1]);//此时再调用就是使用新的地址值去内存查找
+        System.out.println(strArr[1]);//null 此时再调用就是使用新的地址值去内存查找
     }
 }

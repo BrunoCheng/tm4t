@@ -1,11 +1,11 @@
-package com.suixin.tm4t.array;
+package com.suixin.tm4t.L3数组;
 
 /**
- * @Description:TODO
+ * @Description:二分法查找
  * @data:2019/5/22
  * @Auther:acheng
  */
-public class Test {
+public class 数组二分查找法 {
     public static void main(String[] args) {
         //二分法查找：要求此数组必须是有序的。
         int[] arr3 = new int[]{-99, -54, -2, 0, 2, 33, 43, 256, 999};
