@@ -20,6 +20,11 @@ public class Test {
         cat.eat();//猫猫吃鱼
 
         //由上面可以理解一句话:父类引用指向子类对象
+        //这里可以看出多态的优点
+        //① 实现代码的通用性。
+        //② Object类中定义的public boolean equals(Object obj){  }
+        //  JDBC:使用java程序操作(获取数据库连接、CRUD)数据库(MySQL、Oracle、DB2、SQL Server)
+        //③ 抽象类、接口的使用肯定体现了多态性。（抽象类、接口不能实例化）
     }
 
 }

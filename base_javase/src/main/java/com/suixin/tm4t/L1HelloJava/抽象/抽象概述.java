@@ -5,8 +5,20 @@ package com.suixin.tm4t.L1HelloJava.抽象;
  * @data:2019/6/4
  * @Auther:acheng
  */
-public class 抽象概述 {
+public abstract class 抽象概述 {
+
     /**
+     * 首先是抽象方法:它只有声明，而没有具体的实现。
+     */
+
+    abstract void fun();//当定义了抽象方法类必须添加抽象关键字abstract
+
+    /**
+     *
+     *  如果一个类含有抽象方法，则称这个类为抽象类，抽象类必须在类前用abstract关键字修饰。
+     *  因为抽象类中含有无具体实现的方法，所以不能用抽象类创建对象,即不可以直接new.
+     *
+     *
      * 抽象类特点
      * 1：抽象方法只能定义在抽象类中，抽象类和抽象方法必须由abstract关键字修饰（可以描述类和方法，不可以描述变量）。
      *

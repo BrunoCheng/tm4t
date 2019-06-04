@@ -8,7 +8,7 @@ import org.junit.Test;
  * @Auther:acheng
  */
 public class TestInit {
-    //注意如果类名字为Test,那么注解为@org.junit.Test
+    //注意如果类名字为Test,那么注解为@org.junit.接口概述
     @Test
     public void testInit() {
         Father f1 = new Father();//(5)(1)(4)(3)(2)

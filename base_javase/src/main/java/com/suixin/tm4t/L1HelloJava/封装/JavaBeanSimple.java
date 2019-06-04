@@ -8,7 +8,8 @@ import java.util.Date;
  * @Auther:acheng
  */
 public class JavaBeanSimple {
-    //所有属性.只对外提供get和set方法
+    //这里实体类就封装了并私有了属性,对外只提供get和set方法.
+    //这样保护了内部状态,并且提高了维护性和操作性.
     private int id;
     private String name;
     private Date createtime;
