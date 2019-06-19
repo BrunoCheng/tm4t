@@ -1,5 +1,7 @@
 package com.suixin.tm4t.L3数组;
 
+import java.util.ArrayList;
+
 /**
  * @Description:类成员结构
  * @data:2019/5/22
@@ -29,4 +31,5 @@ public class Person {
     class game{
        String name;
     }
+    ArrayList<String> strings ;
 }

@@ -13,6 +13,8 @@ public class 数组内存 {
         //3.{1,2,3},将出初始化值替换为1,2,3;
         //在栈中压入变量名arr 并引用地址值[I@330bedb4
 
+        int[] arr2 ={1,2,3};
+        System.out.println(arr2);//内存中又开了新的地址值
         String[] strArr = new String[4];//同理, new String[4]{};1.在内存堆中new开辟一块空间,并初始化值为null,null,null.null
         System.out.println(strArr);//地址值为;[Ljava.lang.String;@330bedb4
         strArr[1]="张三";//将第二个字符串改为张三

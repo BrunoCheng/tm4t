@@ -61,7 +61,7 @@ public class SwitchCaseTest {
             case 8:
                 System.out.println(8);
 
-        }//7 8 end
+        }//7 8
         //说明没有break不会停下来,并不是说所有比匹配就去default
     }
     @Test

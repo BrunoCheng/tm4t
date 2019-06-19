@@ -3,11 +3,11 @@ package com.suixin.tm4t.L3数组;
 import org.junit.Test;
 
 /**
- * @Description:数组相关
+ * @Description:Arrays工具类
  * @data:2019/5/14
  * @Auther:acheng
  */
-public class ArrayTest {
+public class 可变字符串参数数组 {
     /**
      * 数组的特点:
      * 1)数组是有序排列的
@@ -44,9 +44,12 @@ public class ArrayTest {
     public static void main(String[] args) {
         Person person = new Person();
         person = null;
-       ArrayTest arrayTest = new ArrayTest();
+       可变字符串参数数组 arrayTest = new 可变字符串参数数组();
        arrayTest.show(new String[]{"aa","bb","cc"});//原先的方式,可变和数组都可以这样使用
        arrayTest.show("aa","bb","cc");//可变个数形参样式,不用new了
+
+
+
 
     }
 
@@ -61,4 +64,6 @@ public class ArrayTest {
             System.out.println(strs[i]);
         }
     }
+
+
 }
