@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac8dfdae-12cd-4406-9d20-f29e923d417f" name="Default Changelist" comment="删除没必要的class文件">
-      <change afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/数组工具ArraysUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/L4_1JVM内存/JVM内存模型.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/L4_2内属性/变量.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/New.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/可变形参.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/算法/冒泡算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/ChongZaiDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/Test03.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/META-INF/base_javase.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L1HelloJava/HelloJava.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L1HelloJava/多态/Cat.class" afterDir="false" />
@@ -31,6 +27,10 @@
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L3数组/可变字符串参数数组.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L3数组/数组二分查找法.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L3数组/数组内存.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L3数组/数组工具ArraysUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L4面向对象/L4_1JVM内存/JVM内存模型.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L4面向对象/L4_2内属性/变量.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/L4面向对象/New.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/Person.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/Test.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/Test2.class" afterDir="false" />
@@ -86,11 +86,8 @@
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/xunhuan/Test1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base_javase/target/classes/com/suixin/tm4t/算法/冒泡算法.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L1HelloJava/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L1HelloJava/HelloJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L2基本语法/L2_3流程控制/switch_case/SwitchCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L2基本语法/L2_3流程控制/switch_case/SwitchCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/可变字符串参数数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/数组内存.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/数组内存.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/可变形参.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/可变形参.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/TestInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/TestInit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/base_javase/target/" />
@@ -112,42 +109,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L1HelloJava/HelloJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="46" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L2基本语法/L2_1关键字.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L2基本语法/L2_2标识符.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L2基本语法/L2_3流程控制/switch_case/SwitchCaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
-              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/数组工具ArraysUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-5">
@@ -156,11 +117,92 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/可变形参.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/Test03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="7" selection-start-line="7" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/ChongZaiDemo04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/TestInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/Son.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/Father.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -175,33 +217,6 @@
                 <element signature="e#5027#5028#0" expanded="true" />
                 <element signature="e#5098#5099#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/可变字符串参数数组.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/数组二分查找法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/数组内存.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -241,9 +256,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/Person.java" />
-        <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/Test2.java" />
-        <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/Test.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/chushihua/Test.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/chushihua/TestInit.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4j/chushihua/Son.java" />
@@ -292,6 +304,9 @@
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/数组内存.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L3数组/数组工具ArraysUtils.java" />
         <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/可变形参.java" />
+        <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/Test03.java" />
+        <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/TestInit.java" />
+        <option value="$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/ChongZaiDemo04.java" />
       </list>
     </option>
   </component>
@@ -311,8 +326,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="243" />
-    <option name="y" value="247" />
+    <option name="x" value="96" />
+    <option name="y" value="13" />
     <option name="width" value="1895" />
     <option name="height" value="1080" />
   </component>
@@ -376,7 +391,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tm4t" type="462c0819:PsiDirectoryNode" />
-              <item name="L4面向对象" type="462c0819:PsiDirectoryNode" />
+              <item name="chongzai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tm4t" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tm4t" type="462c0819:PsiDirectoryNode" />
+              <item name="base_javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tm4t" type="462c0819:PsiDirectoryNode" />
+              <item name="chushihua" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,6 +417,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssm-my-shop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -420,13 +446,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="数组内存" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.L3数组.数组内存" />
+  <component name="RunManager" selected="Application.ChongZaiDemo04">
+    <configuration name="可变形参" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.L4面向对象.可变形参" />
       <module name="base_javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.suixin.tm4t.L3数组.*" />
+          <option name="PATTERN" value="com.suixin.tm4t.L4面向对象.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,6 +473,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ChongZaiDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.chongzai.ChongZaiDemo04" />
+      <module name="base_javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suixin.tm4t.chongzai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuoTaiDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.chongzai.DuoTaiDemo4" />
+      <module name="base_javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suixin.tm4t.chongzai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.chongzai.Test03" />
+      <module name="base_javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suixin.tm4t.chongzai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="冒泡算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.算法.冒泡算法" />
       <module name="base_javase" />
@@ -460,61 +525,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCaseTest.testNoBreak2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="base_javase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case" />
-      <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case.SwitchCaseTest" />
-      <option name="METHOD_NAME" value="testNoBreak2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchCaseTest.testNoBreak3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="base_javase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case" />
-      <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case.SwitchCaseTest" />
-      <option name="METHOD_NAME" value="testNoBreak3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchCaseTest.testNoBreak4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="base_javase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case" />
-      <option name="MAIN_CLASS_NAME" value="com.suixin.tm4t.L2基本语法.L2_3流程控制.switch_case.SwitchCaseTest" />
-      <option name="METHOD_NAME" value="testNoBreak4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChongZaiDemo04" />
+        <item itemvalue="Application.DuoTaiDemo4" />
+        <item itemvalue="Application.Test03" />
+        <item itemvalue="Application.可变形参" />
         <item itemvalue="Application.数组工具ArraysUtils" />
-        <item itemvalue="Application.数组内存" />
-        <item itemvalue="JUnit.SwitchCaseTest.testNoBreak4" />
-        <item itemvalue="JUnit.SwitchCaseTest.testNoBreak3" />
-        <item itemvalue="JUnit.SwitchCaseTest.testNoBreak2" />
       </list>
     </recent_temporary>
   </component>
@@ -553,7 +570,7 @@
       <workItem from="1560204339827" duration="2485000" />
       <workItem from="1560854601776" duration="84000" />
       <workItem from="1560907689363" duration="1216000" />
-      <workItem from="1560924494037" duration="1568000" />
+      <workItem from="1560924494037" duration="4177000" />
     </task>
     <task id="LOCAL-00001" summary="第一次tm4t下面&#10;&#10;提交了当前项目的所有代码">
       <created>1559576175616</created>
@@ -632,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559648518467</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="新增类">
+      <created>1560932123247</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560932123247</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -668,7 +692,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85164000" />
+    <option name="totallyTimeSpent" value="87773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -680,10 +704,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="77" y="11" width="1516" height="864" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7506667" visible="true" weight="0.28820375" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7506667" visible="true" weight="0.29492456" />
       <window_info id="Structure" order="1" sideWeight="0.24933334" side_tool="true" weight="0.27522305" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.4950249" side_tool="true" weight="0.2533512" />
@@ -694,7 +718,7 @@
       <window_info id="Web" order="8" sideWeight="0.50224215" side_tool="true" weight="0.23592493" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24220963" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.040983606" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -707,7 +731,7 @@
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49932975" weight="0.19546743" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
       <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.3711048" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.37021858" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.13177763" />
@@ -768,63 +792,14 @@
     <MESSAGE value="1321313" />
     <MESSAGE value="解决github提示的漏洞问题" />
     <MESSAGE value="删除没必要的class文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除没必要的class文件" />
+    <MESSAGE value="新增类" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增类" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/singleton/Singleton3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/singleton/Singleton5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_javaweb/src/main/com.suixin.tm4j/abstracts/TestAbstractDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/singleton/Singleton4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dependences/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3451">
@@ -1210,10 +1185,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chushihua/TestInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="7" selection-start-line="7" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/L4面向对象/可变形参.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_javase/src/main/java/com/suixin/tm4t/chongzai/ChongZaiDemo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

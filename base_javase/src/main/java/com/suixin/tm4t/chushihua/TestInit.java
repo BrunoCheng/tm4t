@@ -23,7 +23,7 @@ public class TestInit {
         Son s2 = new Son();//(9)(3)(2)(9)(8)(7)
     }
     @Test
-    public void test3(){
+    public void testInit3(){
         Father p = new Son();//(5)(1)(10)(6)  (9)(3)(2)(9)(8)(7)
     }
 }
